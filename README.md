@@ -5,7 +5,7 @@
 
 
 ## 🧠  My latest **PUBLIC** repository 
-[![Shadow Heist](https://github-readme-stats.vercel.app/api/pin/?username=rsvedant&repo=Shadow-Heist&show_icons=true&theme=tokyonight)](https://github.com/rsvedant/Shadow-Heist)
+[![Shadow Heist](https://github-readme-stats.vercel.app/api/pin/?username=rsvedant&repo=reelevate.ai&show_icons=true&theme=tokyonight)](https://github.com/rsvedant/reelevate.ai)
  
 ## ✔️ Top Languages I code in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsvedant&layout=compact&theme=tokyonight)](https://github.com/rsvedant)
