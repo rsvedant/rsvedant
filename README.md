@@ -16,8 +16,10 @@ const vedant = {
     "tech.lead": "NASA Space Apps Challenge",
     "tech.lead": "CodeDay",
   },
-  architecture: ["conversational agents", "RAG pipelines", "cross-platform apps", "browser extensions", "authentication systems"],
-  tools: [Convex, React, Next.js, Tailwind CSS, AI SDK, LangChain, LangGraph, PostgreSQL, Pinecone, NeonDB, Firebase, Firestore, FastAPI, Tauri, Actix, ONNX Runtime, WebGPU, WebGL, HuggingFace, Vapi],
+  architecture: ["conversational agents", "RAG pipelines", "cross-platform apps",
+                "browser extensions", "authentication systems"],
+  tools: [Convex, React, Next.js, Tailwind CSS, AI SDK, LangChain, LangGraph, PostgreSQL, Pinecone, NeonDB, FastAPI,
+          Tauri, Actix, ONNX Runtime, WebGPU, WebGL, HuggingFace, Vapi],
   goals: [
     "ship more open source dev tools people actually use",
     "win a few more hackathons then retire from them gracefully",
