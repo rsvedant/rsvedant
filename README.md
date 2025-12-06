@@ -10,7 +10,7 @@ I like building AI Agents and dev tools!
 
 ```ts
 const vedant = {
-  interests: "he" | "him",
+  pronouns: "he" | "him",
   languages: [Rust, TypeScript, JavaScript, C, C++, Java, Python],
   techCommunities: {
     "tech.lead": "NASA Space Apps Challenge",
