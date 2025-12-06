@@ -1,14 +1,29 @@
-## 😄 About Me
-- 👋 Hi, I’m Vedant
-- 👀 I’m interested in cross-platform app development
-- 🌱 I’m currently learning Rust
+![Profile Views](https://komarev.com/ghpvc/?username=rsvedant&style=flat-square&label=Profile+Views)
 
+<h2> Hi, I'm Vedant <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-## 🧠  My latest **PUBLIC** repository 
-[![Shadow Heist](https://github-readme-stats.vercel.app/api/pin/?username=rsvedant&repo=reelevate.ai&show_icons=true&theme=tokyonight)](https://github.com/rsvedant/reelevate.ai)
- 
-## ✔️ Top Languages I code in
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsvedant&layout=compact&theme=tokyonight)](https://github.com/rsvedant)
+I like building AI Agents and dev tools!
 
-## 📊 Github Statistics
-[![Stats](https://github-readme-stats.vercel.app/api?username=rsvedant&hide=prs,stars&theme=tokyonight)](https://github.com/rsvedant)
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Instrument+Serif&size=30&duration=4000&pause=2000&color=FFFFFF&width=500&height=80&lines=About+Me" />
+</p>
+
+```ts
+const vedant = {
+  interests: "he" | "him",
+  languages: [Rust, TypeScript, JavaScript, C, C++, Java, Python],
+  techCommunities: {
+    "tech.lead": "NASA Space Apps Challenge",
+    "tech.lead": "CodeDay",
+  },
+  architecture: ["conversational agents", "RAG pipelines", "cross-platform apps", "browser extensions", "authentication systems"],
+  tools: [Convex, React, Next.js, Tailwind CSS, AI SDK, LangChain, LangGraph, PostgreSQL, Pinecone, NeonDB, Firebase, Firestore, FastAPI, Tauri, Actix, ONNX Runtime, WebGPU, WebGL, HuggingFace, Vapi],
+  goals: [
+    "ship more open source dev tools people actually use",
+    "win a few more hackathons then retire from them gracefully",
+    "blend voice, agents, and realtime systems into products people love"
+  ]
+};
+```
+
+I love connecting with people, if you wanna chat, feel free to send me an email at vedant@dial0.dev :)
