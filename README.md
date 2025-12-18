@@ -1,4 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=rsvedant&style=flat-square&label=Profile+Views)
+<p>
+  <a href="https://komarev.com/ghpvc/?username=rsvedant">
+    <img src="https://komarev.com/ghpvc/?username=rsvedant&style=flat-square&label=Profile+Views" alt="Profile views" />
+  </a>
+</p>
 
 <h2> Hi, I'm Vedant <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
